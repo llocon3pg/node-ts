@@ -21,11 +21,13 @@ Since it is a template with the necessary dependencies, the only thing that woul
 ```markdown
 ├── .husky
 │ ├── pre-commit
+│
 ├── **test**
 │ ├── (Test should be added it here)
-│ │ ├── \*_/_.css
+│
 ├── src
 │ ├── (App goes here Ts files)
+│
 ├── .eslintrc.json
 ├── .lintstagedrc.json
 ├── README.md
